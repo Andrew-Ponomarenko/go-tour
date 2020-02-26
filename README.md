@@ -1,2 +1,2 @@
 # go-tour
-# test repo to evaluate my skills
+test repo to evaluate my "skills"
